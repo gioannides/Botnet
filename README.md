@@ -1,5 +1,5 @@
 <div>
-  <img src="botnet.png" align="centre">
+  <img src="botnet.png" align="centre" height=300 width=300>
   <br>
 </div>
 
